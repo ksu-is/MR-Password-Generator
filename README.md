@@ -1,14 +1,16 @@
-# Python - Random Password Generator ( R.P.G. )
+# Python - Random Password Generator
 
 ## Features
 
 * Generate 100% secure password.
 
-* Random password generation.
+* Random password generation with special characters included. 
 
 * We do not store passwords in our system.
 
 * Open Source
+
+* Will be using Python 3 for this project. 
 
 ## Clone with HTTPS
 ```
