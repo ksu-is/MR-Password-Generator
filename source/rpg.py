@@ -6,7 +6,7 @@ import random
 
 def random_password_generator():
     chars = string.ascii_uppercase + string.ascii_lowercase + string.digits + string.punctuation
-    size = 8
+    size = 4
     return ''.join(random.choice(chars) for x in range(size, 20))
 
 def random_password_generator_ico():
